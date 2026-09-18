@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0f0c29,50:302b63,100:ff00cc&height=250&section=header&text=MICK.DANIEL.EXE&fontSize=60&fontColor=00fff2&animation=twinkling&fontAlignY=[...]
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0f0c29,50:302b63,100:ff00cc&height=250&section=header&text=MICK.DANIEL.EXE&fontSize=60&fontColor=00fff2&animation=twinkling&fontAlignY=50&fontAlignX=50&fontFamily=monospace&fontWeight=700" alt="Mick Daniel profile banner" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=700&color=FF2EC4&center=true&vCenter=true&width=650&height=50&lines=%3E+INITIALIZING_DANIEL.exe.%3C[...]
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=700&color=FF2EC4&center=true&vCenter=true&width=650&height=50&lines=%3E+INITIALIZING_DANIEL.exe.%3C" alt="Initializing Daniel.exe" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%25" alt="Decorative divider" width="100%" />
 
@@ -10,18 +10,16 @@
 
 # 💫 About Me
 
-```text
-╔════════════════════════════════════════════════════╗
-  IDENTITY     :: Mick Daniel Morales
-  CLASS        :: Full-Stack Developer
-  ACTIVE_OPS   :: Tag-Abantay // Minnies Farm Resort // Fiesta Finder
-  SEEKING      :: Collaboration on full-stack web and mobile builds
-  NEED_HELP    :: Advanced network architecture and backend optimization
-  LEARNING     :: Supabase // Next.js // Serverless Flask
-  ASK_ME       :: React Native // UI/UX design
-  EASTER_EGG   :: Long bike rides = the best debugger for the brain 🚴
-╚════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <strong>IDENTITY</strong> :: Mick Daniel Morales<br>
+  <strong>CLASS</strong> :: Full-Stack Developer<br>
+  <strong>ACTIVE_OPS</strong> :: Tag-Abantay // Minnies Farm Resort // Fiesta Finder<br>
+  <strong>SEEKING</strong> :: Collaboration on full-stack web and mobile builds<br>
+  <strong>NEED_HELP</strong> :: Advanced network architecture and backend optimization<br>
+  <strong>LEARNING</strong> :: Supabase // Next.js // Serverless Flask<br>
+  <strong>ASK_ME</strong> :: React Native // UI/UX design<br>
+  <strong>EASTER_EGG</strong> :: Long bike rides = the best debugger for the brain 🚴
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%25" alt="Decorative divider" width="100%" />
 
