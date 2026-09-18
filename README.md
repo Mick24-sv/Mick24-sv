@@ -10,16 +10,22 @@
 
 # 💫 About Me
 
-<p align="center">
-  <strong>IDENTITY</strong> :: Mick Daniel Morales<br>
-  <strong>CLASS</strong> :: Full-Stack Developer<br>
-  <strong>ACTIVE_OPS</strong> :: Tag-Abantay // Minnies Farm Resort // Fiesta Finder<br>
-  <strong>SEEKING</strong> :: Collaboration on full-stack web and mobile builds<br>
-  <strong>NEED_HELP</strong> :: Advanced network architecture and backend optimization<br>
-  <strong>LEARNING</strong> :: Supabase // Next.js // Serverless Flask<br>
-  <strong>ASK_ME</strong> :: React Native // UI/UX design<br>
-  <strong>EASTER_EGG</strong> :: Long bike rides = the best debugger for the brain 🚴
-</p>
+<div align="left">
+  <div style="height:4px; width:100%; border-radius:999px; background:linear-gradient(90deg,#ff2ec4,#00fff2); margin:0 0 18px 0;"></div>
+  <h2 style="display:inline-flex; align-items:center; gap:10px; margin:0 0 12px 0; font-size:32px; color:#eafcff; font-weight:700;">
+    <span>🖥️</span> About Me
+  </h2>
+  <pre style="margin:0; background-color:#0b1120; border:1px solid #55d6ff; border-radius:12px; padding:18px 20px; color:#dffcff; font-family:Consolas, 'Courier New', monospace; font-size:16px; line-height:1.9; white-space:pre-wrap; box-shadow:0 0 0 1px rgba(85,214,255,0.18), 0 0 18px rgba(85,214,255,0.12);">
+IDENTITY     :: Mick Daniel Morales
+CLASS        :: Full-Stack Developer
+ACTIVE_OPS   :: Tag-Abantay // Minnies Farm Resort // Fiesta Finder
+SEEKING      :: Collaboration on full-stack web and mobile builds
+NEED_HELP    :: Advanced network architecture and backend optimization
+LEARNING     :: Supabase // Next.js // Serverless Flask
+ASK_ME       :: React Native // UI/UX design
+EASTER_EGG   :: Long bike rides = the best debugger for the brain 🚴
+  </pre>
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%25" alt="Decorative divider" width="100%" />
 
@@ -120,4 +126,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:ff00cc,50:302b63,100:0f0c29&height=150&section=footer" alt="Decorative footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:ff00cc,50:302b63,100:0f0c29&height:150&section=footer" alt="Decorative footer" width="100%" />
