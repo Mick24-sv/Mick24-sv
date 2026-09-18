@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0f0c29,50:302b63,100:ff00cc&height=250&section=header&text=DANIEL.EXE&fontSize=60&fontColor=00fff2&animation=twinkling&fontAlignY=40&desc=%3E%3E%20FULL-STACK%20DEVELOPER%20%2F%2F%20SYSTEM%20ONLINE&descAlignY=58&descSize=16&descColor=ff2ec4"/>
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0f0c29,50:302b63,100:ff00cc&height=250&section=header&text=MICK.DANIEL.EXE&fontSize=60&fontColor=00fff2&animation=twinkling&fontAlignY=40&desc=%3E%3E%20FULL-STACK%20DEVELOPER%20%2F%2F%20SYSTEM%20ONLINE&descAlignY=58&descSize=16&descColor=ff2ec4"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=700&color=FF2EC4&center=true&vCenter=true&width=650&height=50&lines=%3E+INITIALIZING_DANIEL.exe...;%3E+LOADING+TAG-ABANTAY+%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%5D;%3E+COMPILING+MINNIES_FARM_RESORT;%3E+DEPLOYING+FIESTA_FINDER;%3E+STATUS%3A+READY_TO_COLLAB" alt="Typing SVG"/>
 
@@ -12,7 +12,7 @@
 
 ```ansi
 [0;35m╔════════════════════════════════════════════════════╗[0m
-[0;36m  IDENTITY[0m    :: Daniel Morales
+[0;36m  IDENTITY[0m    :: Mick Daniel Morales
 [0;36m  CLASS[0m       :: Full-Stack Developer
 [0;36m  ACTIVE_OPS[0m  :: Tag-Abantay // Minnies Farm Resort // Fiesta Finder
 [0;36m  SEEKING[0m     :: Collab on full-stack web + mobile builds
@@ -42,7 +42,7 @@
 
 <div align="center">
 
-**// CORE LANGUAGES**<br>
+**⚡ CORE LANGUAGES**<br>
 ![C++](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00fff2)
 ![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=ff2ec4)
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=00fff2)
@@ -50,7 +50,7 @@
 ![R](https://img.shields.io/badge/r-000000?style=for-the-badge&logo=r&logoColor=00fff2)
 ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-**// FRONTEND + MOBILE**<br>
+**📱 FRONTEND + MOBILE**<br>
 ![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=00fff2)
 ![React Native](https://img.shields.io/badge/react_native-000000?style=for-the-badge&logo=react&logoColor=ff2ec4)
 ![Next JS](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=next.js&logoColor=00fff2)
@@ -59,7 +59,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-000000?style=for-the-badge&logo=tailwind-css&logoColor=00fff2)
 ![HTML5](https://img.shields.io/badge/html5-000000?style=for-the-badge&logo=html5&logoColor=ff2ec4)
 
-**// BACKEND + DATA**<br>
+**🗄️ BACKEND + DATA**<br>
 ![NodeJS](https://img.shields.io/badge/node.js-000000?style=for-the-badge&logo=node.js&logoColor=00fff2)
 ![Flask](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Supabase](https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
@@ -69,7 +69,7 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-000000?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
 ![SQLite](https://img.shields.io/badge/sqlite-000000?style=for-the-badge&logo=sqlite&logoColor=00fff2)
 
-**// DEPLOY + OPS**<br>
+**🚀 DEPLOY + OPS**<br>
 ![Docker](https://img.shields.io/badge/docker-000000?style=for-the-badge&logo=docker&logoColor=00fff2)
 ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-000000?style=for-the-badge&logo=netlify&logoColor=ff2ec4)
@@ -82,7 +82,7 @@
 ![PowerShell](https://img.shields.io/badge/powershell-000000?style=for-the-badge&logo=powershell&logoColor=00fff2)
 ![Bash](https://img.shields.io/badge/bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=ff2ec4)
 
-**// GAME_MODE**<br>
+**🎮 GAME_MODE**<br>
 ![Unreal Engine](https://img.shields.io/badge/unreal_engine-000000?style=for-the-badge&logo=unrealengine&logoColor=00fff2)
 ![Steam](https://img.shields.io/badge/steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/riot_games-000000?style=for-the-badge&logo=riotgames&logoColor=ff2ec4)
@@ -93,7 +93,7 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%25)
 
-## `> SYSTEM_METRICS.dat`
+# 📊 GitHub Stats:
 
 <div align="center">
 
@@ -104,7 +104,7 @@
 
 </div>
 
-## `> ACHIEVEMENTS.unlocked`
+## 🏆 ACHIEVEMENTS.unlocked
 
 <div align="center">
 
@@ -118,7 +118,7 @@
 
 <img src="https://media.giphy.com/media/hnbNtSSDPgboObbdxo/giphy.gif" width="320">
 
-### `>> "IN A WORLD OF BUGS, BE THE ONE WHO DEBUGS." <<`
+### ✍️ "IN A WORLD OF BUGS, BE THE ONE WHO DEBUGS." 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Mick24-sv&style=for-the-badge&color=0f0c29&label=SCAN+COUNT)](https://visitcount.itsvg.in)
 
