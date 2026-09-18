@@ -1,69 +1,111 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240" role="img" aria-labelledby="title desc">
-  <title id="title">3D globe tag cloud</title>
-  <desc id="desc">Animated rotating sphere with orbiting technology labels in a cyber theme.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 760" width="1000" height="760" role="img" aria-labelledby="title desc">
+  <title id="title">3D globe tag cloud for technology stack</title>
+  <desc id="desc">A rotating cyber sphere with floating technology tags divided into language, frontend, backend, deployment, and game categories.</desc>
 
   <defs>
-    <radialGradient id="planet" cx="35%" cy="28%" r="72%">
-      <stop offset="0%" stop-color="#1d3557"/>
-      <stop offset="46%" stop-color="#101c32"/>
-      <stop offset="100%" stop-color="#060b14"/>
+    <radialGradient id="planet" cx="35%" cy="28%" r="70%">
+      <stop offset="0%" stop-color="#1b2d4d"/>
+      <stop offset="42%" stop-color="#0b152a"/>
+      <stop offset="100%" stop-color="#040910"/>
     </radialGradient>
-    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="ring" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#00fff2"/>
-      <stop offset="50%" stop-color="#7d5cff"/>
+      <stop offset="50%" stop-color="#7a5cff"/>
       <stop offset="100%" stop-color="#ff2ec4"/>
     </linearGradient>
     <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
     <clipPath id="sphereClip">
-      <circle cx="120" cy="120" r="74"/>
+      <circle cx="500" cy="330" r="180"/>
     </clipPath>
   </defs>
 
   <style>
-    .spin { transform-box: fill-box; transform-origin: center; animation: spin 12s linear infinite; }
-    .spinReverse { transform-box: fill-box; transform-origin: center; animation: spinReverse 16s linear infinite; }
-    .pulse { animation: pulse 2.2s ease-in-out infinite; }
+    .spin { transform-box: fill-box; transform-origin: center; animation: spin 18s linear infinite; }
+    .spinReverse { transform-box: fill-box; transform-origin: center; animation: spinReverse 24s linear infinite; }
+    .pulse { animation: pulse 2.3s ease-in-out infinite; }
     @keyframes spin { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
     @keyframes spinReverse { from { transform: rotate(360deg); } to { transform: rotate(0deg); } }
     @keyframes pulse { 0%, 100% { opacity: .35; } 50% { opacity: 1; } }
-    text { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 700; letter-spacing: 0.7px; }
+    text { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 700; letter-spacing: 0.9px; }
+    .section { font-size: 28px; fill: #dffcff; }
+    .tag { font-size: 20px; }
   </style>
 
+  <rect width="1000" height="760" fill="#070d18"/>
+
   <g filter="url(#glow)">
-    <circle cx="120" cy="120" r="90" fill="none" stroke="url(#neon)" stroke-width="2" stroke-dasharray="4 10" opacity="0.82" class="spin"/>
-    <circle cx="120" cy="120" r="98" fill="none" stroke="#00fff2" stroke-width="1" stroke-dasharray="1 12" opacity="0.58" class="spinReverse"/>
+    <circle cx="500" cy="330" r="260" fill="none" stroke="url(#ring)" stroke-width="2" stroke-dasharray="6 16" opacity="0.9" class="spin"/>
+    <circle cx="500" cy="330" r="280" fill="none" stroke="#00fff2" stroke-width="1.2" stroke-dasharray="1 14" opacity="0.7" class="spinReverse"/>
 
-    <circle cx="120" cy="120" r="74" fill="url(#planet)" stroke="url(#neon)" stroke-width="3"/>
+    <circle cx="500" cy="330" r="180" fill="url(#planet)" stroke="url(#ring)" stroke-width="3"/>
 
-    <g clip-path="url(#sphereClip)" fill="none" stroke="#00fff2" stroke-width="1" opacity="0.38">
-      <ellipse cx="120" cy="120" rx="74" ry="26"/>
-      <ellipse cx="120" cy="120" rx="74" ry="46"/>
-      <ellipse cx="120" cy="120" rx="74" ry="66"/>
-      <path d="M46 120h148M120 46v148"/>
+    <g clip-path="url(#sphereClip)" fill="none" stroke="#00fff2" stroke-width="1.1" opacity="0.45">
+      <ellipse cx="500" cy="330" rx="180" ry="62"/>
+      <ellipse cx="500" cy="330" rx="180" ry="110"/>
+      <ellipse cx="500" cy="330" rx="180" ry="155"/>
+      <path d="M320 330h360M500 150v360"/>
     </g>
 
     <g class="spin" text-anchor="middle">
-      <text x="120" y="42" fill="#00fff2" font-size="8">C++</text>
-      <text x="179" y="72" fill="#00fff2" font-size="8">REACT</text>
-      <text x="188" y="143" fill="#ff2ec4" font-size="8">NODE</text>
-      <text x="120" y="205" fill="#00fff2" font-size="8">PYTHON</text>
-      <text x="54" y="170" fill="#00fff2" font-size="8">JAVA</text>
-      <text x="56" y="82" fill="#ff2ec4" font-size="8">JS</text>
-      <text x="145" y="53" fill="#ff2ec4" font-size="8">PHP</text>
-      <text x="198" y="108" fill="#00fff2" font-size="8">GIT</text>
-      <text x="150" y="187" fill="#00fff2" font-size="8">SQL</text>
-      <text x="80" y="194" fill="#ff2ec4" font-size="8">DOCKER</text>
+      <text x="500" y="76" class="section" fill="#dffcff">⚡ Core Languages</text>
+      <text x="500" y="112" class="tag" fill="#00fff2">C++</text>
+      <text x="585" y="145" class="tag" fill="#00fff2">Java</text>
+      <text x="652" y="186" class="tag" fill="#00fff2">Python</text>
+      <text x="690" y="245" class="tag" fill="#ff2ec4">PHP</text>
+      <text x="652" y="326" class="tag" fill="#00fff2">R</text>
+      <text x="580" y="392" class="tag" fill="#ffe66d">JavaScript</text>
+
+      <text x="500" y="470" class="section" fill="#dffcff">📱 Frontend &amp; Mobile</text>
+      <text x="405" y="512" class="tag" fill="#00fff2">React</text>
+      <text x="505" y="560" class="tag" fill="#ff2ec4">React Native</text>
+      <text x="640" y="602" class="tag" fill="#00fff2">Next.js</text>
+      <text x="750" y="575" class="tag" fill="#1ee6c8">Vue.js</text>
+      <text x="780" y="500" class="tag" fill="#ff2ec4">Vite</text>
+      <text x="760" y="430" class="tag" fill="#00fff2">Tailwind CSS</text>
+      <text x="690" y="370" class="tag" fill="#ff2ec4">HTML5</text>
+
+      <text x="500" y="657" class="section" fill="#dffcff">🗄️ Backend &amp; Data</text>
+      <text x="345" y="700" class="tag" fill="#00fff2">Node.js</text>
+      <text x="430" y="728" class="tag" fill="#ffffff">Flask</text>
+      <text x="535" y="749" class="tag" fill="#33d17a">Supabase</text>
+      <text x="655" y="740" class="tag" fill="#ffcd34">Firebase</text>
+      <text x="745" y="700" class="tag" fill="#00fff2">PostgreSQL</text>
+      <text x="783" y="650" class="tag" fill="#ff2ec4">MySQL</text>
+      <text x="230" y="560" class="tag" fill="#4ea94b">MongoDB</text>
+      <text x="250" y="642" class="tag" fill="#00fff2">SQLite</text>
     </g>
 
     <g class="spinReverse" text-anchor="middle">
-      <text x="120" y="118" fill="#dffcff" font-size="7" opacity="0.9">TECH</text>
-      <circle cx="120" cy="120" r="13" fill="none" stroke="#ff2ec4" stroke-width="1.5" class="pulse"/>
+      <text x="500" y="330" fill="#dffcff" font-size="26" opacity="0.9">TECH</text>
+      <circle cx="500" cy="330" r="25" fill="none" stroke="#ff2ec4" stroke-width="2" class="pulse"/>
+    </g>
+
+    <g class="spin" text-anchor="middle">
+      <text x="500" y="175" class="section" fill="#dffcff">🚀 Deployment &amp; Tools</text>
+      <text x="220" y="225" class="tag" fill="#00fff2">Docker</text>
+      <text x="315" y="270" class="tag" fill="#ffffff">Vercel</text>
+      <text x="395" y="315" class="tag" fill="#ff2ec4">Netlify</text>
+      <text x="500" y="345" class="tag" fill="#00fff2">Render</text>
+      <text x="590" y="315" class="tag" fill="#ff2ec4">Git</text>
+      <text x="680" y="270" class="tag" fill="#00fff2">GitHub</text>
+      <text x="760" y="225" class="tag" fill="#ff2ec4">Figma</text>
+      <text x="820" y="280" class="tag" fill="#00fff2">Notion</text>
+      <text x="780" y="362" class="tag" fill="#049fd9">Cisco</text>
+      <text x="720" y="425" class="tag" fill="#00fff2">PowerShell</text>
+      <text x="610" y="455" class="tag" fill="#ff2ec4">Bash</text>
+
+      <text x="500" y="532" class="section" fill="#dffcff">🎮 Game Mode</text>
+      <text x="295" y="575" class="tag" fill="#00fff2">Unreal Engine</text>
+      <text x="430" y="610" class="tag" fill="#ffffff">Steam</text>
+      <text x="555" y="640" class="tag" fill="#ff2ec4">Riot Games</text>
+      <text x="698" y="610" class="tag" fill="#ffffff">Epic Games</text>
+      <text x="820" y="575" class="tag" fill="#76B900">NVIDIA</text>
     </g>
   </g>
 </svg>
