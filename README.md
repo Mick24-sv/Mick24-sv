@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0f0c29,50:302b63,100:ff00cc&height=250&section=header&text=MICK.DANIEL.EXE&fontSize=60&fontColor=00fff2&animation=twinkling&fontAlignY=35" alt="Mick Daniel profile header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0f0c29,50:302b63,100:ff00cc&height=250&section=header&text=MICK.DANIEL.EXE&fontSize=60&fontColor=00fff2&animation=twinkling&fontAlignY=[...]
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=700&color=FF2EC4&center=true&vCenter=true&width=650&height=50&lines=%3E+INITIALIZING_DANIEL.exe.%3C;FULL-STACK+DEVELOPER;BUILDING+THE+FUTURE" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=700&color=FF2EC4&center=true&vCenter=true&width=650&height=50&lines=%3E+INITIALIZING_DANIEL.exe.%3C[...]
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%25" alt="Decorative divider" width="100%" />
 
@@ -31,7 +31,7 @@
 
 [![Facebook](https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=00fff2&labelColor=0f0c29)](https://www.facebook.com/Dnlmrlss)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=ff2ec4&labelColor=0f0c29)](https://instagram.com/danielmrlss)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00fff2&labelColor=0f0c29)](https://www.linkedin.com/in/danielmrlss/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/danielmrlss/)
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ff2ec4&labelColor=0f0c29)](mailto:moralesmickdaniel7@gmail.com)
 
 </div>
