@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="Spinning cyber emblem">
+  <defs>
+    <linearGradient id="ringGrad" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#00fff2"/>
+      <stop offset="50%" stop-color="#7a5cff"/>
+      <stop offset="100%" stop-color="#ff2ec4"/>
+    </linearGradient>
+    <linearGradient id="coreGrad" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#0b1120"/>
+      <stop offset="50%" stop-color="#182a3a"/>
+      <stop offset="100%" stop-color="#0b1120"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    @keyframes spin {
+      from { transform: rotate(0deg); }
+      to   { transform: rotate(360deg); }
+    }
+    @keyframes spinReverse {
+      from { transform: rotate(360deg); }
+      to   { transform: rotate(0deg); }
+    }
+    .ring {
+      transform-origin: 50% 50%;
+      animation: spin 3s linear infinite;
+      filter: url(#glow);
+    }
+    .ring-slow {
+      transform-origin: 50% 50%;
+      animation: spinReverse 6s linear infinite;
+      filter: url(#glow);
+    }
+  </style>
+
+  <g>
+    <g class="ring-slow">
+      <path d="M80 14 L122 38 L122 87 L80 110 L38 87 L38 38 Z" fill="none" stroke="url(#ringGrad)" stroke-width="5" opacity="0.9"/>
+      <path d="M80 26 L112 45 L112 80 L80 98 L48 80 L48 45 Z" fill="none" stroke="#00fff2" stroke-width="2.5" opacity="0.8"/>
+    </g>
+
+    <g class="ring">
+      <circle cx="80" cy="80" r="48" fill="none" stroke="url(#ringGrad)" stroke-width="6" stroke-dasharray="11 12" opacity="0.95"/>
+      <circle cx="80" cy="80" r="30" fill="none" stroke="#ff2ec4" stroke-width="2.4" stroke-dasharray="5 9" opacity="0.9"/>
+    </g>
+
+    <g>
+      <path d="M80 42 L95 80 L80 118 L65 80 Z" fill="url(#coreGrad)" stroke="#00fff2" stroke-width="2.5"/>
+      <path d="M42 80 L80 65 L118 80 L80 95 Z" fill="url(#coreGrad)" stroke="#ff2ec4" stroke-width="2.5"/>
+      <circle cx="80" cy="80" r="11" fill="#00fff2" opacity="0.95"/>
+      <circle cx="80" cy="80" r="5" fill="#0b1120"/>
+    </g>
+
+    <g fill="#00fff2" opacity="0.95">
+      <circle cx="80" cy="14" r="4"/>
+      <circle cx="122" cy="38" r="4"/>
+      <circle cx="122" cy="87" r="4"/>
+      <circle cx="80" cy="110" r="4"/>
+      <circle cx="38" cy="87" r="4"/>
+      <circle cx="38" cy="38" r="4"/>
+    </g>
+
+    <g fill="#ff2ec4" opacity="0.9">
+      <circle cx="80" cy="30" r="3.5"/>
+      <circle cx="110" cy="80" r="3.5"/>
+      <circle cx="80" cy="130" r="3.5"/>
+      <circle cx="50" cy="80" r="3.5"/>
+    </g>
+  </g>
+</svg>
