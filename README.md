@@ -10,18 +10,9 @@
 
 # 💫 About Me
 
-<div align="left">
+<div align="left" style="background-color:#0b1120; border:1px solid #55d6ff; border-radius:12px; padding:14px 18px;">
 
-<pre style="margin:0; background-color:#0b1120; border:1px solid #55d6ff; border-radius:12px; padding:18px 20px; color:#dffcff; font-family:Consolas, 'Courier New', monospace; font-size:16px; line-height:1.7; white-space:pre-wrap; word-break:break-word;">
-IDENTITY     :: Mick Daniel Morales
-CLASS        :: Full-Stack Developer
-ACTIVE_OPS   :: Tag-Abantay // Minnies Farm Resort // Fiesta Finder
-SEEKING      :: Collaboration on full-stack web and mobile builds
-NEED_HELP    :: Advanced network architecture and backend optimization
-LEARNING     :: Supabase // Next.js // Serverless Flask
-ASK_ME       :: React Native // UI/UX design
-EASTER_EGG   :: Long bike rides = the best debugger for the brain 🚴
-</pre>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=500&color=DFFCFF&background=00000000&center=false&vCenter=false&multiline=true&repeat=true&width=760&height=300&lines=IDENTITY%20%3A%3A%20Mick%20Daniel%20Morales;CLASS%20%3A%3A%20Full-Stack%20Developer;ACTIVE_OPS%20%3A%3A%20Tag-Abantay%20%2F%2F%20Minnies%20Farm%20Resort%20%2F%2F%20Fiesta%20Finder;SEEKING%20%3A%3A%20Collaboration%20on%20full-stack%20web%20and%20mobile%20builds;NEED_HELP%20%3A%3A%20Advanced%20network%20architecture%20and%20backend%20optimization;LEARNING%20%3A%3A%20Supabase%20%2F%2F%20Next.js%20%2F%2F%20Serverless%20Flask;ASK_ME%20%3A%3A%20React%20Native%20%2F%2F%20UI%2FUX%20design;EASTER_EGG%20%3A%3A%20Long%20bike%20rides%20%3D%20the%20best%20debugger%20for%20the%20brain%20%F0%9F%9A%B4" alt="Typing animation of About Me terminal block" />
 
 </div>
 
@@ -110,8 +101,10 @@ EASTER_EGG   :: Long bike rides = the best debugger for the brain 🚴
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mick24-sv&show_icons=true&theme=radical&hide_border=true&bg_color=0b1120&title_color=00fff2&icon_color=ff2ec4&text_color=dffcff" width="49%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mick24-sv&layout=compact&theme=radical&hide_border=true&bg_color=0b1120&title_color=00fff2&text_color=dffcff" width="41%" alt="Top languages" />
+<!-- These four cards are self-hosted: generated once a day by .github/workflows/profile-cards.yml
+     straight into this repo, so they never break due to third-party rate limits. -->
+<img src="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/main/profile-summary-card-output/radical/3-stats.svg" width="49%" alt="GitHub stats" />
+<img src="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="41%" alt="Top languages" />
 
 <br/><br/>
 
@@ -119,7 +112,7 @@ EASTER_EGG   :: Long bike rides = the best debugger for the brain 🚴
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mick24-sv&theme=react-dark&bg_color=0b1120&color=00fff2&line=ff2ec4&point=dffcff&hide_border=true" width="95%" alt="Contribution activity graph" />
+<img src="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/main/profile-summary-card-output/radical/4-productive-time.svg" width="95%" alt="Productive coding hours" />
 
 </div>
 
