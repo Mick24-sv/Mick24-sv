@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=egg&color=0:0f0c29,50:302b63,100:ff00cc&height=250&section=header&text=MICK.DANIEL.EXE&fontSize=60&fontColor=00fff2&animation=twinkling&fontAlignY=35" alt="Mick Daniel profile header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=700&color=FF2EC4&center=true&vCenter=true&width=650&height=50&lines=%3E+INITIALIZING_DANIEL.exe.%3Cbr%3E%3E+FULL_STACK_DEVELOPER%3Cbr%3E%3E+SYSTEMS_ONLINE" alt="Typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=700&color=FF2EC4&center=true&vCenter=true&width=650&height=50&lines=%3E+INITIALIZING_DANIEL.exe.%3C;FULL-STACK+DEVELOPER;BUILDING+THE+FUTURE" alt="Typing introduction" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%25" alt="Decorative divider" width="100%" />
 
@@ -102,18 +102,9 @@
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Mick24-sv&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Mick Daniel's GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mick24-sv&theme=radical&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" alt="Most used programming languages" />
-
-<img src="https://streak-stats.demolab.com/?user=Mick24-sv&theme=radical&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mick24-sv&theme=radical&no-frame=true&row=1&margin-w=4" alt="GitHub profile trophies" />
+[![GitHub followers](https://img.shields.io/github/followers/Mick24-sv?style=for-the-badge&logo=github&label=Followers)](https://github.com/Mick24-sv)
+[![GitHub repositories](https://img.shields.io/badge/GitHub-Repositories-00fff2?style=for-the-badge&logo=github)](https://github.com/Mick24-sv?tab=repositories)
+[![GitHub contributions](https://img.shields.io/badge/GitHub-Contributions-ff2ec4?style=for-the-badge&logo=github)](https://github.com/Mick24-sv?tab=overview)
 
 </div>
 
