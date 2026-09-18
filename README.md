@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Daniel%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20%26%20Web%20Craftsman&descAlignY=52&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Daniel%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Mobile%20and%20Web%20Craftsman&descAlignY=52&descSize=18"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A970FF&center=true&vCenter=true&width=600&lines=Building+Tag-Abantay+%F0%9F%8C%B1;Crafting+Minnies+Farm+Resort+%F0%9F%8F%A1;Designing+Fiesta+Finder+%F0%9F%8E%89;Powered+by+Coffee+%26+Curiosity+%E2%98%95" alt="Typing SVG" />
 
@@ -11,7 +11,7 @@
 ## 💫 About Me
 
 ```yaml
-name: Daniel Morales
+name: Mick Daniel Morales
 role: Full-Stack Developer
 current_projects: ["Tag-Abantay", "Minnies Farm Resort", "Fiesta Finder"]
 collaboration: "Full-stack web & mobile development"
