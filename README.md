@@ -97,10 +97,10 @@
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.shion.dev/api?username=Mick24-sv&theme=cyberpunk&hide_border=true&include_all_commits=true&count_private=false"/>
-<img height="175em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mick24-sv&theme=cyberpunk&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Mick24-sv&theme=cyberpunk&hide_border=true&include_all_commits=true&count_private=false"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mick24-sv&theme=cyberpunk&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 
-<img src="https://streak-stats.demolab.com/?user=Mick24-sv&theme=radical&hide_border=true&background=0D1117&ring=FF2EC4&fire=00FFF2&currStreakLabel=00FFF2" alt="streak stats"/>
+<img src="https://streak-stats.demolab.com/?user=Mick24-sv&theme=radical&hide_border=true" alt="streak stats"/>
 
 </div>
 
@@ -108,7 +108,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Mick24-sv&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mick24-sv&theme=radical&no-frame=true&row=1&margin-w=4"/>
 
 </div>
 
