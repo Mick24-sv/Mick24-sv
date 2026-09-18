@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0f0c29,50:302b63,100:ff00cc&height=250&section=header&text=MICK.DANIEL.EXE&fontSize=60&fontColor=00fff2&animation=twinkling&fontAlignY=[...]" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0f0c29,50:302b63,100:ff00cc&height=250&section=header&text=MICK.DANIEL.EXE&fontSize=60&fontColor=00fff2&animation=twinkling&fontAlignY=35&desc=FULL-STACK%20DEVELOPER&descAlignY=55&descColor=ff2ec4" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=700&color=FF2EC4&center=true&vCenter=true&width=650&height=50&lines=%3E+INITIALIZING_DANIEL.exe.%3C[...]" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=700&color=FF2EC4&center=true&vCenter=true&width=650&height=50&lines=%3E+INITIALIZING_DANIEL.exe...;%3E+LOADING_FULLSTACK_MODULES...;%3E+READY_TO_COLLABORATE_%5B%E2%9C%93%5D" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%25" alt="Decorative divider" width="100%" />
 
@@ -11,10 +11,8 @@
 # 💫 About Me
 
 <div align="left">
-  <div style="height:4px; width:100%; border-radius:999px; background:linear-gradient(90deg,#ff2ec4,#00fff2); margin:0 0 18px 0;"></div>
-  <h2 style="display:inline-flex; align-items:center; gap:10px; margin:0 0 12px 0; font-size:32px; color:#eafcff; font-weight:700;">
-  </h2>
-  <pre style="margin:0; background-color:#0b1120; border:1px solid #55d6ff; border-radius:12px; padding:18px 20px; color:#dffcff; font-family:Consolas, 'Courier New', monospace; font-size:16px; line-height:1.7; white-space:pre-wrap; word-break:break-word;">
+
+<pre style="margin:0; background-color:#0b1120; border:1px solid #55d6ff; border-radius:12px; padding:18px 20px; color:#dffcff; font-family:Consolas, 'Courier New', monospace; font-size:16px; line-height:1.7; white-space:pre-wrap; word-break:break-word;">
 IDENTITY     :: Mick Daniel Morales
 CLASS        :: Full-Stack Developer
 ACTIVE_OPS   :: Tag-Abantay // Minnies Farm Resort // Fiesta Finder
@@ -23,7 +21,8 @@ NEED_HELP    :: Advanced network architecture and backend optimization
 LEARNING     :: Supabase // Next.js // Serverless Flask
 ASK_ME       :: React Native // UI/UX design
 EASTER_EGG   :: Long bike rides = the best debugger for the brain 🚴
-  </pre>
+</pre>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%25" alt="Decorative divider" width="100%" />
@@ -32,10 +31,10 @@ EASTER_EGG   :: Long bike rides = the best debugger for the brain 🚴
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/FACEBOOK-000000?style=for-the-badge&logo=facebook&logoColor=00fff2&labelColor=0f0c29)](https://www.facebook.com/Dnlmrlss)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=ff2ec4&labelColor=0f0c29)](https://instagram.com/danielmrlss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/danielmrlss/)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=ff2ec4&labelColor=0f0c29)](mailto:moralesmickdaniel7@gmail.com)
+[![Facebook](https://img.shields.io/badge/FACEBOOK-0b1120?style=for-the-badge&logo=facebook&logoColor=00fff2&labelColor=0f0c29)](https://www.facebook.com/Dnlmrlss)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0b1120?style=for-the-badge&logo=instagram&logoColor=ff2ec4&labelColor=0f0c29)](https://instagram.com/danielmrlss)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0b1120?style=for-the-badge&logo=linkedin&logoColor=00fff2&labelColor=0f0c29)](https://www.linkedin.com/in/danielmrlss/)
+[![Email](https://img.shields.io/badge/EMAIL-0b1120?style=for-the-badge&logo=gmail&logoColor=ff2ec4&labelColor=0f0c29)](mailto:moralesmickdaniel7@gmail.com)
 
 </div>
 
@@ -47,55 +46,55 @@ EASTER_EGG   :: Long bike rides = the best debugger for the brain 🚴
 
 ### ⚡ Core Languages
 
-![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00fff2)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ff2ec4)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00fff2)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=ff2ec4)
-![R](https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=00fff2)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![C++](https://img.shields.io/badge/C%2B%2B-0b1120?style=for-the-badge&logo=c%2B%2B&logoColor=00fff2)
+![Java](https://img.shields.io/badge/Java-0b1120?style=for-the-badge&logo=openjdk&logoColor=ff2ec4)
+![Python](https://img.shields.io/badge/Python-0b1120?style=for-the-badge&logo=python&logoColor=00fff2)
+![PHP](https://img.shields.io/badge/PHP-0b1120?style=for-the-badge&logo=php&logoColor=ff2ec4)
+![R](https://img.shields.io/badge/R-0b1120?style=for-the-badge&logo=r&logoColor=00fff2)
+![JavaScript](https://img.shields.io/badge/JavaScript-0b1120?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-### 📱 Frontend and Mobile
+### 📱 Frontend & Mobile
 
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00fff2)
-![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge&logo=react&logoColor=ff2ec4)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=00fff2)
-![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=ff2ec4)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=00fff2)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ff2ec4)
+![React](https://img.shields.io/badge/React-0b1120?style=for-the-badge&logo=react&logoColor=00fff2)
+![React Native](https://img.shields.io/badge/React_Native-0b1120?style=for-the-badge&logo=react&logoColor=ff2ec4)
+![Next.js](https://img.shields.io/badge/Next.js-0b1120?style=for-the-badge&logo=next.js&logoColor=00fff2)
+![Vue.js](https://img.shields.io/badge/Vue.js-0b1120?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Vite](https://img.shields.io/badge/Vite-0b1120?style=for-the-badge&logo=vite&logoColor=ff2ec4)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0b1120?style=for-the-badge&logo=tailwind-css&logoColor=00fff2)
+![HTML5](https://img.shields.io/badge/HTML5-0b1120?style=for-the-badge&logo=html5&logoColor=ff2ec4)
 
-### 🗄️ Backend and Data
+### 🗄️ Backend & Data
 
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00fff2)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00fff2)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=ff2ec4)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
-![SQLite](https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=00fff2)
+![Node.js](https://img.shields.io/badge/Node.js-0b1120?style=for-the-badge&logo=node.js&logoColor=00fff2)
+![Flask](https://img.shields.io/badge/Flask-0b1120?style=for-the-badge&logo=flask&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-0b1120?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Firebase](https://img.shields.io/badge/Firebase-0b1120?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0b1120?style=for-the-badge&logo=postgresql&logoColor=00fff2)
+![MySQL](https://img.shields.io/badge/MySQL-0b1120?style=for-the-badge&logo=mysql&logoColor=ff2ec4)
+![MongoDB](https://img.shields.io/badge/MongoDB-0b1120?style=for-the-badge&logo=mongodb&logoColor=4ea94b)
+![SQLite](https://img.shields.io/badge/SQLite-0b1120?style=for-the-badge&logo=sqlite&logoColor=00fff2)
 
-### 🚀 Deployment and Tools
+### 🚀 Deployment & Tools
 
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=00fff2)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=ff2ec4)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=00fff2)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ff2ec4)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00fff2)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ff2ec4)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=00fff2)
-![Cisco](https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco&logoColor=049fd9)
-![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=00fff2)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=ff2ec4)
+![Docker](https://img.shields.io/badge/Docker-0b1120?style=for-the-badge&logo=docker&logoColor=00fff2)
+![Vercel](https://img.shields.io/badge/Vercel-0b1120?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-0b1120?style=for-the-badge&logo=netlify&logoColor=ff2ec4)
+![Render](https://img.shields.io/badge/Render-0b1120?style=for-the-badge&logo=render&logoColor=00fff2)
+![Git](https://img.shields.io/badge/Git-0b1120?style=for-the-badge&logo=git&logoColor=ff2ec4)
+![GitHub](https://img.shields.io/badge/GitHub-0b1120?style=for-the-badge&logo=github&logoColor=00fff2)
+![Figma](https://img.shields.io/badge/Figma-0b1120?style=for-the-badge&logo=figma&logoColor=ff2ec4)
+![Notion](https://img.shields.io/badge/Notion-0b1120?style=for-the-badge&logo=notion&logoColor=00fff2)
+![Cisco](https://img.shields.io/badge/Cisco-0b1120?style=for-the-badge&logo=cisco&logoColor=049fd9)
+![PowerShell](https://img.shields.io/badge/PowerShell-0b1120?style=for-the-badge&logo=powershell&logoColor=00fff2)
+![Bash](https://img.shields.io/badge/Bash-0b1120?style=for-the-badge&logo=gnu-bash&logoColor=ff2ec4)
 
 ### 🎮 Game Mode
 
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=00fff2)
-![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
-![Riot Games](https://img.shields.io/badge/Riot_Games-000000?style=for-the-badge&logo=riotgames&logoColor=ff2ec4)
-![Epic Games](https://img.shields.io/badge/Epic_Games-000000?style=for-the-badge&logo=epicgames&logoColor=white)
-![NVIDIA](https://img.shields.io/badge/NVIDIA-000000?style=for-the-badge&logo=nvidia&logoColor=76B900)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0b1120?style=for-the-badge&logo=unrealengine&logoColor=00fff2)
+![Steam](https://img.shields.io/badge/Steam-0b1120?style=for-the-badge&logo=steam&logoColor=white)
+![Riot Games](https://img.shields.io/badge/Riot_Games-0b1120?style=for-the-badge&logo=riotgames&logoColor=ff2ec4)
+![Epic Games](https://img.shields.io/badge/Epic_Games-0b1120?style=for-the-badge&logo=epicgames&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-0b1120?style=for-the-badge&logo=nvidia&logoColor=76B900)
 
 </div>
 
@@ -105,11 +104,22 @@ EASTER_EGG   :: Long bike rides = the best debugger for the brain 🚴
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/Mick24-sv?style=for-the-badge&logo=github&label=Followers)](https://github.com/Mick24-sv)
-[![GitHub stars](https://img.shields.io/github/stars/Mick24-sv?style=for-the-badge&logo=github&label=Stars)](https://github.com/Mick24-sv?tab=repositories)
+[![GitHub followers](https://img.shields.io/github/followers/Mick24-sv?style=for-the-badge&logo=github&label=Followers&color=0b1120&labelColor=0f0c29)](https://github.com/Mick24-sv)
+[![GitHub stars](https://img.shields.io/github/stars/Mick24-sv?style=for-the-badge&logo=github&label=Stars&color=0b1120&labelColor=0f0c29)](https://github.com/Mick24-sv?tab=repositories)
 [![GitHub repos](https://img.shields.io/badge/Repos-9-00fff2?style=for-the-badge&logo=github&labelColor=0f0c29)](https://github.com/Mick24-sv?tab=repositories)
 
-<img src="https://streak-stats.demolab.com/?user=Mick24-sv&theme=radical&hide_border=true" alt="GitHub contribution streak" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mick24-sv&show_icons=true&theme=radical&hide_border=true&bg_color=0b1120&title_color=00fff2&icon_color=ff2ec4&text_color=dffcff" width="49%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mick24-sv&layout=compact&theme=radical&hide_border=true&bg_color=0b1120&title_color=00fff2&text_color=dffcff" width="41%" alt="Top languages" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=Mick24-sv&theme=radical&hide_border=true&background=0b1120&ring=ff2ec4&fire=00fff2&currStreakLabel=00fff2" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mick24-sv&theme=react-dark&bg_color=0b1120&color=00fff2&line=ff2ec4&point=dffcff&hide_border=true" width="95%" alt="Contribution activity graph" />
 
 </div>
 
@@ -119,10 +129,10 @@ EASTER_EGG   :: Long bike rides = the best debugger for the brain 🚴
 
 <img src="https://media.giphy.com/media/hnbNtSSDPgboObbdxo/giphy.gif" width="320" alt="Animated coding illustration" />
 
-### ✍️ “In a world of bugs, be the one who debugs.”
+### ✍️ "In a world of bugs, be the one who debugs."
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Mick24-sv&style=for-the-badge&color=0f0c29&label=SCAN+COUNT)](https://visitcount.itsvg.in)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:ff00cc,50:302b63,100:0f0c29&height:150&section=footer" alt="Decorative footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:ff00cc,50:302b63,100:0f0c29&height=150&section=footer" alt="Decorative footer" width="100%" />
