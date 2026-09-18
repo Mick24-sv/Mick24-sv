@@ -8,7 +8,7 @@
 
 </div>
 
-## `> ABOUT_ME.log`
+# 💫 About Me:
 
 ```ansi
 [0;35m╔════════════════════════════════════════════════════╗[0m
@@ -25,7 +25,7 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%25)
 
-## `> UPLINK_CHANNELS`
+## 🌐 Socials:
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 
 ![divider](https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%25)
 
-## `> LOADOUT.stack`
+# 💻 Tech Stack:
 
 <div align="center">
 
