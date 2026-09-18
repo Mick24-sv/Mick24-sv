@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0f0c29,50:302b63,100:ff00cc&height=250&section=header&text=MICK.DANIEL.EXE&fontSize=60&fontColor=00fff2&animation=twinkling&fontAlignY=40" alt="Mick Daniel profile header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0f0c29,50:302b63,100:ff00cc&height=250&section=header&text=MICK.DANIEL.EXE&fontSize=60&fontColor=00fff2&animation=twinkling&fontAlignY=35" alt="Mick Daniel profile header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=700&color=FF2EC4&center=true&vCenter=true&width=650&height=50&lines=%3E+INITIALIZING_DANIEL.exe...;%3E+FULL_STACK_DEVELOPER;%3E+BUILDING_THE_FUTURE" alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=700&color=FF2EC4&center=true&vCenter=true&width=650&height=50&lines=%3E+INITIALIZING_DANIEL.exe.%3Cbr%3E%3E+FULL_STACK_DEVELOPER%3Cbr%3E%3E+SYSTEMS_ONLINE" alt="Typing introduction" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%25" alt="Decorative divider" width="100%" />
 
@@ -96,14 +96,14 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%25" alt="Decorative divider" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%25" alt="Decorative divider" />
 
 # 📊 GitHub Stats
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Mick24-sv&theme=cyberpunk&hide_border=true&include_all_commits=true&count_private=false" alt="Mick Daniel's GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mick24-sv&theme=cyberpunk&hide_border=true&layout=compact" alt="Most used programming languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Mick24-sv&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Mick Daniel's GitHub statistics" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mick24-sv&theme=radical&hide_border=true&layout=compact&langs_count=8&cache_seconds=86400" alt="Most used programming languages" />
 
 <img src="https://streak-stats.demolab.com/?user=Mick24-sv&theme=radical&hide_border=true" alt="GitHub contribution streak" />
 
@@ -117,7 +117,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%25" alt="Decorative divider" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%25" alt="Decorative divider" />
 
 <div align="center">
 
