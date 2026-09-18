@@ -35,21 +35,7 @@
 
 <div align="center">
 
-<svg width="90" height="90" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="coreGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00fff2"/>
-      <stop offset="100%" stop-color="#ff2ec4"/>
-    </linearGradient>
-  </defs>
-  <g>
-    <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="10s" repeatCount="indefinite"/>
-    <circle cx="50" cy="50" r="42" fill="none" stroke="url(#coreGrad)" stroke-width="2.5" stroke-dasharray="6 5"/>
-    <polygon points="50,14 76,30 76,70 50,86 24,70 24,30" fill="none" stroke="url(#coreGrad)" stroke-width="1.6"/>
-    <circle cx="50" cy="50" r="5" fill="url(#coreGrad)"/>
-  </g>
-  <circle cx="50" cy="50" r="48" fill="none" stroke="#0b1120" stroke-width="1"/>
-</svg>
+<img src="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/main/assets/tech-stack-spinner.svg" width="90" alt="Spinning cyber emblem" />
 
 </div>
 
