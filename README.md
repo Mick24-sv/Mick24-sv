@@ -103,8 +103,10 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/Mick24-sv?style=for-the-badge&logo=github&label=Followers)](https://github.com/Mick24-sv)
-[![GitHub repositories](https://img.shields.io/badge/GitHub-Repositories-00fff2?style=for-the-badge&logo=github)](https://github.com/Mick24-sv?tab=repositories)
-[![GitHub contributions](https://img.shields.io/badge/GitHub-Contributions-ff2ec4?style=for-the-badge&logo=github)](https://github.com/Mick24-sv?tab=overview)
+[![GitHub stars](https://img.shields.io/github/stars/Mick24-sv?style=for-the-badge&logo=github&label=Stars)](https://github.com/Mick24-sv?tab=repositories)
+[![GitHub repos](https://img.shields.io/badge/Repos-9-00fff2?style=for-the-badge&logo=github&labelColor=0f0c29)](https://github.com/Mick24-sv?tab=repositories)
+
+<img src="https://streak-stats.demolab.com/?user=Mick24-sv&theme=radical&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
 
