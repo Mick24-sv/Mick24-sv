@@ -151,26 +151,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%" alt="Decorative divider" />
 
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mick24-sv&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%" alt="Decorative divider" />
-
-# 📡 Activity Feed
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mick24-sv&theme=tokyo-night&bg_color=0b1120&color=00fff2&line=ff2ec4&point=ffffff&area_color=ff2ec4&area=true&hide_border=true&custom_title=COMMIT%20ACTIVITY%20LOG" alt="Mick Daniel's GitHub activity graph" width="95%" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%" alt="Decorative divider" />
-
 # 💡 Random Dev Quote
 
 <div align="center">
