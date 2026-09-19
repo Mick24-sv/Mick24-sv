@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=700&color=FF2EC4&center=true&vCenter=true&width=650&height=50&lines=%3E+INITIALIZING_DANIEL.exe...;%3E+LOADING_FULLSTACK_MODULES...;%3E+READY_TO_COLLABORATE_%5B%E2%9C%93%5D" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%25" alt="Decorative divider" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%" alt="Decorative divider" width="100%" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%25" alt="Decorative divider" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%" alt="Decorative divider" width="100%" />
 
 ## 🌐 Socials
 
@@ -29,7 +29,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%25" alt="Decorative divider" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%" alt="Decorative divider" width="100%" />
 
 # 💻 Tech Stack
 
@@ -95,7 +95,29 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%25" alt="Decorative divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%" alt="Decorative divider" />
+
+# 🚧 Currently Building
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=2000&pause=600&color=00FFF2&center=true&vCenter=true&width=700&height=40&lines=%5BACTIVE%5D+Tag-Abantay+%E2%80%94+Community+platform;%5BACTIVE%5D+Minnies+Farm+Resort+%E2%80%94+Booking+system;%5BACTIVE%5D+Fiesta+Finder+%E2%80%94+Event+discovery+app" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🗂️ Project | 📋 Description | 🛠️ Stack | 🔗 Status |
+|:---|:---|:---|:---:|
+| **Tag-Abantay** | Community engagement & local services platform | React · Supabase · Tailwind | ![Active](https://img.shields.io/badge/ACTIVE-00fff2?style=flat-square&labelColor=0b1120) |
+| **Minnies Farm Resort** | Full booking & reservation management system | Next.js · Firebase · Node.js | ![Active](https://img.shields.io/badge/ACTIVE-00fff2?style=flat-square&labelColor=0b1120) |
+| **Fiesta Finder** | Discover & manage local festivals and events | React Native · Flask · PostgreSQL | ![Active](https://img.shields.io/badge/ACTIVE-00fff2?style=flat-square&labelColor=0b1120) |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%" alt="Decorative divider" />
 
 # 📊 GitHub Stats
 
@@ -120,9 +142,44 @@
 
 <img src="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/main/profile-summary-card-output/radical/4-productive-time.svg" width="95%" alt="Productive coding hours" />
 
+<br/><br/>
+
+<!-- Contribution graph snake animation -->
+<img src="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="95%" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%25" alt="Decorative divider" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%" alt="Decorative divider" />
+
+# 🏆 Achievements
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mick24-sv&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/Mick24-sv)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%" alt="Decorative divider" />
+
+# 📡 Activity Feed
+
+<div align="center">
+
+[![Mick Daniel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mick24-sv&bg_color=0b1120&color=00fff2&line=ff2ec4&point=ffffff&area=true&hide_border=true&custom_title=COMMIT+ACTIVITY+LOG)](https://github.com/Mick24-sv)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%" alt="Decorative divider" />
+
+# 💡 Random Dev Quote
+
+<div align="center">
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%" alt="Decorative divider" />
 
 <div align="center">
 
