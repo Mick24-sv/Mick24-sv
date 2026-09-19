@@ -144,6 +144,8 @@
 
 <br/><br/>
 
+<!-- Contribution snake — auto-generated every 12h by .github/workflows/snake.yml -->
+<img src="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="95%" />
 
 </div>
 
