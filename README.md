@@ -144,8 +144,6 @@
 
 <br/><br/>
 
-<!-- Contribution graph snake animation -->
-<img src="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="95%" />
 
 </div>
 
@@ -155,7 +153,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mick24-sv&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/Mick24-sv)
+<img src="https://github-profile-trophy.vercel.app/?username=Mick24-sv&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
 
 </div>
 
@@ -165,7 +163,7 @@
 
 <div align="center">
 
-[![Mick Daniel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mick24-sv&bg_color=0b1120&color=00fff2&line=ff2ec4&point=ffffff&area=true&hide_border=true&custom_title=COMMIT+ACTIVITY+LOG)](https://github.com/Mick24-sv)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mick24-sv&theme=tokyo-night&bg_color=0b1120&color=00fff2&line=ff2ec4&point=ffffff&area_color=ff2ec4&area=true&hide_border=true&custom_title=COMMIT%20ACTIVITY%20LOG" alt="Mick Daniel's GitHub activity graph" width="95%" />
 
 </div>
 
