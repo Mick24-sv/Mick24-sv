@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/main/assets/tech-stack-spinner.svg" width="340" alt="Spinning cyber emblem with orbiting category labels" />
+<img src="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/main/assets/tech-stack-spinner.svg" width="500" alt="Spinning cyber emblem with orbiting tech logos" />
 
 </div>
 

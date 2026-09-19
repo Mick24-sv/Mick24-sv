@@ -397,49 +397,49 @@
     <!-- JS  @ 0° -->
     <g transform="translate(476,336)">
       <g class="logo-upright-r1">
-        <use href="#logo-js"     x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-js"     x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- React  @ 45° -->
     <g transform="translate(449,449)">
       <g class="logo-upright-r1">
-        <use href="#logo-react"  x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-react"  x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- Python @ 90° -->
     <g transform="translate(350,490)">
       <g class="logo-upright-r1">
-        <use href="#logo-python" x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-python" x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- Node.js @ 135° -->
     <g transform="translate(251,449)">
       <g class="logo-upright-r1">
-        <use href="#logo-node"   x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-node"   x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- HTML5 @ 180° -->
     <g transform="translate(210,350)">
       <g class="logo-upright-r1">
-        <use href="#logo-html5"  x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-html5"  x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- Vue.js @ 225° -->
     <g transform="translate(251,251)">
       <g class="logo-upright-r1">
-        <use href="#logo-vue"    x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-vue"    x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- Firebase @ 270° -->
     <g transform="translate(350,210)">
       <g class="logo-upright-r1">
-        <use href="#logo-firebase" x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-firebase" x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- TypeScript @ 315° -->
     <g transform="translate(449,251)">
       <g class="logo-upright-r1">
-        <use href="#logo-ts"     x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-ts"     x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
   </g>
@@ -453,61 +453,61 @@
     <!-- Next.js @ 0° (550,350) -->
     <g transform="translate(550,350)">
       <g class="logo-upright-r2">
-        <use href="#logo-next"      x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-next"      x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- Tailwind @ 36° (512,468) -->
     <g transform="translate(512,468)">
       <g class="logo-upright-r2">
-        <use href="#logo-tailwind"  x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-tailwind"  x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- Docker @ 72° (412,540) -->
     <g transform="translate(412,540)">
       <g class="logo-upright-r2">
-        <use href="#logo-docker"    x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-docker"    x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- PostgreSQL @ 108° (288,540) -->
     <g transform="translate(288,540)">
       <g class="logo-upright-r2">
-        <use href="#logo-postgres"  x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-postgres"  x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- Supabase @ 144° (188,468) -->
     <g transform="translate(188,468)">
       <g class="logo-upright-r2">
-        <use href="#logo-supabase"  x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-supabase"  x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- MongoDB @ 180° (150,350) -->
     <g transform="translate(150,350)">
       <g class="logo-upright-r2">
-        <use href="#logo-mongodb"   x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-mongodb"   x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- Git @ 216° (188,232) -->
     <g transform="translate(188,232)">
       <g class="logo-upright-r2">
-        <use href="#logo-git"       x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-git"       x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- GitHub @ 252° (288,160) -->
     <g transform="translate(288,160)">
       <g class="logo-upright-r2">
-        <use href="#logo-github"    x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-github"    x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- Figma @ 288° (412,160) -->
     <g transform="translate(412,160)">
       <g class="logo-upright-r2">
-        <use href="#logo-figma"     x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-figma"     x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- Vite @ 324° (512,232) -->
     <g transform="translate(512,232)">
       <g class="logo-upright-r2">
-        <use href="#logo-vite"      x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-vite"      x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
   </g>
@@ -521,73 +521,73 @@
     <!-- C++ @ 0° (620,350) -->
     <g transform="translate(620,350)">
       <g class="logo-upright-r3">
-        <use href="#logo-cpp"     x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-cpp"     x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- Java @ 30° (584,485) -->
     <g transform="translate(584,485)">
       <g class="logo-upright-r3">
-        <use href="#logo-java"    x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-java"    x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- PHP @ 60° (485,584) -->
     <g transform="translate(485,584)">
       <g class="logo-upright-r3">
-        <use href="#logo-php"     x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-php"     x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- MySQL @ 90° (350,620) -->
     <g transform="translate(350,620)">
       <g class="logo-upright-r3">
-        <use href="#logo-mysql"   x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-mysql"   x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- Flask @ 120° (215,584) -->
     <g transform="translate(215,584)">
       <g class="logo-upright-r3">
-        <use href="#logo-flask"   x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-flask"   x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- Netlify @ 150° (116,485) -->
     <g transform="translate(116,485)">
       <g class="logo-upright-r3">
-        <use href="#logo-netlify" x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-netlify" x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- Notion @ 180° (80,350) -->
     <g transform="translate(80,350)">
       <g class="logo-upright-r3">
-        <use href="#logo-notion"  x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-notion"  x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- Vercel @ 210° (116,215) -->
     <g transform="translate(116,215)">
       <g class="logo-upright-r3">
-        <use href="#logo-vercel"  x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-vercel"  x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- Render @ 240° (215,116) -->
     <g transform="translate(215,116)">
       <g class="logo-upright-r3">
-        <use href="#logo-render"  x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-render"  x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- Cisco @ 270° (350,80) -->
     <g transform="translate(350,80)">
       <g class="logo-upright-r3">
-        <use href="#logo-cisco"   x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-cisco"   x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- Unreal Engine @ 300° (485,116) -->
     <g transform="translate(485,116)">
       <g class="logo-upright-r3">
-        <use href="#logo-unreal"  x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-unreal"  x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
     <!-- NVIDIA @ 330° (584,215) -->
     <g transform="translate(584,215)">
       <g class="logo-upright-r3">
-        <use href="#logo-nvidia"  x="-14" y="-14" width="28" height="28"/>
+        <use href="#logo-nvidia"  x="-20" y="-20" width="40" height="40"/>
       </g>
     </g>
   </g>
