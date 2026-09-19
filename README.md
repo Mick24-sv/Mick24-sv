@@ -129,8 +129,6 @@
 
 <br/>
 
-<!-- These four cards are self-hosted: generated once a day by .github/workflows/profile-cards.yml
-     straight into this repo, so they never break due to third-party rate limits. -->
 <img src="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/main/profile-summary-card-output/radical/3-stats.svg" width="49%" alt="GitHub stats" />
 <img src="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/main/profile-summary-card-output/radical/1-repos-per-language.svg" width="41%" alt="Top languages" />
 
