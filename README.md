@@ -141,10 +141,6 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/main/profile-summary-card-output/radical/4-productive-time.svg" width="95%" alt="Productive coding hours" />
-
-<br/><br/>
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%" alt="Decorative divider" />
@@ -164,10 +160,6 @@
 <img src="https://media.giphy.com/media/hnbNtSSDPgboObbdxo/giphy.gif" width="320" alt="Animated coding illustration" />
 
 ### ✍️ "In a world of bugs, be the one who debugs."
-
-Profile Views GitHub followers GitHub stars
-
-</div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,100:7c3aed&height=3&width=100%" width="100%" />
 
 </div>
 
