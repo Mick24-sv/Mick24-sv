@@ -8,16 +8,6 @@
 
 </div>
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:3b0764,100:7c3aed&height=260&section=header&text=MICK%20DANIEL%20MORALES&fontSize=46&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=55&descColor=A78BFA" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=%3E+booting+daniel.dev...;%3E+loading+fullstack+modules...;%3E+status%3A+open+to+collaboration" /> <br/>
-
-Location Portfolio LinkedIn Email GitHub
-
-<br/>
-
-Profile Views GitHub followers GitHub stars
-
-</div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,100:7c3aed&height=3&width=100%" width="100%" />
-
 # 💫 About Me
 
 <div align="left" style="background-color:#0b1120; border:1px solid #55d6ff; border-radius:12px; padding:14px 18px;">
@@ -129,6 +119,9 @@ Profile Views GitHub followers GitHub stars
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%" alt="Decorative divider" />
 
+🐍 Contribution Snake
+<div align="center"> <img src="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="95%" /> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:4c1d95&height=3&width=100%" width="100%" />
+
 # 📊 GitHub Stats
 
 <div align="center">
@@ -172,7 +165,9 @@ Profile Views GitHub followers GitHub stars
 
 ### ✍️ "In a world of bugs, be the one who debugs."
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Mick24-sv&style=for-the-badge&color=0f0c29&label=SCAN+COUNT)](https://visitcount.itsvg.in)
+Profile Views GitHub followers GitHub stars
+
+</div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4c1d95,100:7c3aed&height=3&width=100%" width="100%" />
 
 </div>
 
