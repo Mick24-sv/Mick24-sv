@@ -6,6 +6,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%" alt="Decorative divider" width="100%" />
 
+Location Portfolio LinkedIn Email GitHub
+
+<br/>
+
 </div>
 
 # 💫 About Me
@@ -160,6 +164,8 @@
 <img src="https://media.giphy.com/media/hnbNtSSDPgboObbdxo/giphy.gif" width="320" alt="Animated coding illustration" />
 
 ### ✍️ "In a world of bugs, be the one who debugs."
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Mick24-sv&style=for-the-badge&color=0f0c29&label=SCAN+COUNT)](https://visitcount.itsvg.in)
 
 </div>
 
