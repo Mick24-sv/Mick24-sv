@@ -109,14 +109,6 @@
 
 <div align="center">
 
-| 🗂️ Project | 📋 Description | 🛠️ Stack | 🔗 Status |
-|:---|:---|:---|:---:|
-| **Tag-Abantay** | Community engagement & local services platform | React · Supabase · Tailwind | ![Active](https://img.shields.io/badge/ACTIVE-00fff2?style=flat-square&labelColor=0b1120) |
-| **Minnies Farm Resort** | Full booking & reservation management system | Next.js · Firebase · Node.js | ![Active](https://img.shields.io/badge/ACTIVE-00fff2?style=flat-square&labelColor=0b1120) |
-| **Fiesta Finder** | Discover & manage local festivals and events | React Native · Flask · PostgreSQL | ![Active](https://img.shields.io/badge/ACTIVE-00fff2?style=flat-square&labelColor=0b1120) |
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%" alt="Decorative divider" />
 
 🐍 Contribution Snake
