@@ -97,18 +97,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%" alt="Decorative divider" />
 
-# 🚧 Currently Building
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&duration=2000&pause=600&color=00FFF2&center=true&vCenter=true&width=700&height=40&lines=%5BACTIVE%5D+Tag-Abantay+%E2%80%94+Community+platform;%5BACTIVE%5D+Minnies+Farm+Resort+%E2%80%94+Booking+system;%5BACTIVE%5D+Fiesta+Finder+%E2%80%94+Event+discovery+app" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%" alt="Decorative divider" />
 
 🐍 Contribution Snake
