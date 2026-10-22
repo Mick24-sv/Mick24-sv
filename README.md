@@ -97,8 +97,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%" alt="Decorative divider" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%" alt="Decorative divider" />
-
 🐍 Contribution Snake
 <div align="center"> <img src="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="95%" /> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:4c1d95&height=3&width=100%" width="100%" />
 
