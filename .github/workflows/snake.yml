@@ -43,3 +43,6 @@ jobs:
           allow_empty_commit: false
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Refresh README with immutable snake image URLs
+        run: node scripts/update-snake-readme.cjs
