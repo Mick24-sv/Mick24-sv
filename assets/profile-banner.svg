@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Mick Daniel Morales</title>
+  <desc id="desc">Full-stack developer. Web, mobile, and thoughtful interfaces.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1120"/><stop offset="1" stop-color="#21143e"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#e879f9"/></linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a5b4fc" stroke-opacity=".07"/></pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <path d="M64 70H130" stroke="url(#accent)" stroke-width="4"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="64" y="108" fill="#67e8f9" font-size="15" letter-spacing="4">FULL-STACK DEVELOPER</text>
+    <text x="60" y="176" fill="#f8fafc" font-size="56" font-weight="700">Mick Daniel Morales</text>
+    <text x="64" y="220" fill="#c4b5fd" font-size="21">Web. Mobile. Thoughtful interfaces.</text>
+    <text x="64" y="270" fill="#94a3b8" font-family="Consolas, monospace" font-size="15">@Mick24-sv</text>
+    <text x="1000" y="198" fill="#67e8f9" opacity=".6" font-family="Consolas, monospace" font-size="72">&lt;/&gt;</text>
+  </g>
+  <rect x="64" y="304" width="1072" height="2" fill="url(#accent)" opacity=".6"/>
+</svg>
