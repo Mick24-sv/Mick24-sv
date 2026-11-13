@@ -100,9 +100,9 @@ I'm **Mick Daniel Morales**, a full-stack developer building web and mobile expe
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/output/github-contribution-grid-snake.svg" alt="Animated snake moving across my GitHub contribution calendar" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/output/github-contribution-grid-snake-dark.svg?v=20261113-refresh" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/output/github-contribution-grid-snake.svg?v=20261113-refresh" />
+  <img src="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/output/github-contribution-grid-snake.svg?v=20261113-refresh" alt="Animated snake moving across my GitHub contribution calendar" width="100%" />
 </picture>
 
 [View the source contribution calendar](https://github.com/Mick24-sv?tab=overview) ? Refreshes every 12 hours and after pushes to this profile repository. Colors represent GitHub contribution levels; the animation repeats the same calendar.
