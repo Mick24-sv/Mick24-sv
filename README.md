@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:0f0c29,50:302b63,100:ff00cc&height=250&section=header&text=MICK.DANIEL.EXE&fontSize=60&fontColor=00fff2&animation=twinkling&fontAlignY=35&desc=FULL-STACK%20DEVELOPER&descAlignY=55&descColor=ff2ec4" alt="Mick Daniel Morales - Full-stack developer" width="100%" />
+<img src="assets/profile-banner.svg" alt="Animated neon MICK.DANIEL.EXE banner with orbiting code rings" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=700&color=FF2EC4&center=true&vCenter=true&width=650&height=50&lines=%3E+INITIALIZING_DANIEL.exe...;%3E+LOADING_FULLSTACK_MODULES...;%3E+READY_TO_COLLABORATE_%5B%E2%9C%93%5D" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=2500&pause=700&color=FF2EC4&center=true&vCenter=true&width=650&height=50&lines=%3E+INITIALIZING_DANIEL.exe...;%3E+LOADING_FULLSTACK_MODULES...;%3E+READY_TO_COLLABORATE_%5B%E2%9C%93%5D" alt="Initializing Daniel, loading full-stack modules, ready to collaborate" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%" alt="Decorative divider" width="100%" />
+<img src="assets/neon-divider.svg" alt="Animated cyan and magenta circuit divider" width="100%" />
 
 </div>
 
@@ -12,13 +12,9 @@
 
 I'm **Mick Daniel Morales**, a full-stack developer building web and mobile experiences with a focus on useful interfaces and practical backend systems.
 
-<div align="left" style="background-color:#0b1120; border:1px solid #55d6ff; border-radius:12px; padding:14px 18px;">
+<img src="assets/neon-terminal.svg" alt="About Daniel: full-stack developer building Tag-Abantay, Minnies Farm Resort, and Fiesta Finder. Learning Next.js, Supabase, and serverless Flask. Open to collaboration." width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=1800&pause=500&color=DFFCFF&background=00000000&center=false&vCenter=false&multiline=true&repeat=true&width=760&height=300&lines=IDENTITY%20%3A%3A%20Mick%20Daniel%20Morales;CLASS%20%3A%3A%20Full-Stack%20Developer;ACTIVE_OPS%20%3A%3A%20Tag-Abantay%20%2F%2F%20Minnies%20Farm%20Resort%20%2F%2F%20Fiesta%20Finder;SEEKING%20%3A%3A%20Collaboration%20on%20full-stack%20web%20and%20mobile%20builds;NEED_HELP%20%3A%3A%20Advanced%20network%20architecture%20and%20backend%20optimization;LEARNING%20%3A%3A%20Supabase%20%2F%2F%20Next.js%20%2F%2F%20Serverless%20Flask;ASK_ME%20%3A%3A%20React%20Native%20%2F%2F%20UI%2FUX%20design;EASTER_EGG%20%3A%3A%20Long%20bike%20rides%20%3D%20the%20best%20debugger%20for%20the%20brain%20%F0%9F%9A%B4" alt="Typing animation of About Me terminal block" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%" alt="Decorative divider" width="100%" />
+<img src="assets/neon-divider.svg" alt="Animated cyan and magenta circuit divider" width="100%" />
 
 ## 🌐 Socials
 
@@ -31,7 +27,7 @@ I'm **Mick Daniel Morales**, a full-stack developer building web and mobile expe
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%" alt="Decorative divider" width="100%" />
+<img src="assets/neon-divider.svg" alt="Animated cyan and magenta circuit divider" width="100%" />
 
 # 💻 Tech Stack
 
@@ -97,7 +93,7 @@ I'm **Mick Daniel Morales**, a full-stack developer building web and mobile expe
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%" alt="Decorative divider" />
+<img src="assets/neon-divider.svg" alt="Animated cyan and magenta circuit divider" width="100%" />
 
 ## 🐍 Contribution Snake
 
@@ -109,11 +105,13 @@ I'm **Mick Daniel Morales**, a full-stack developer building web and mobile expe
   <img src="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/output/github-contribution-grid-snake.svg" alt="Animated snake moving across my GitHub contribution calendar" width="100%" />
 </picture>
 
+[View the source contribution calendar](https://github.com/Mick24-sv?tab=overview) ? Refreshes every 12 hours and after pushes to this profile repository. Colors represent GitHub contribution levels; the animation repeats the same calendar.
+
 [![Snake workflow](https://img.shields.io/github/actions/workflow/status/Mick24-sv/Mick24-sv/snake.yml?branch=main&label=Snake%20updates&style=for-the-badge&color=00fff2&labelColor=0f0c29)](https://github.com/Mick24-sv/Mick24-sv/actions/workflows/snake.yml)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3" alt="Neon divider" width="100%" />
+<img src="assets/neon-divider.svg" alt="Animated cyan and magenta circuit divider" width="100%" />
 
 # 📊 GitHub Stats
 
@@ -125,7 +123,7 @@ I'm **Mick Daniel Morales**, a full-stack developer building web and mobile expe
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00fff2,100:ff2ec4&height=3&width=100%" alt="Decorative divider" />
+<img src="assets/neon-divider.svg" alt="Animated cyan and magenta circuit divider" width="100%" />
 
 # 💡 Random Dev Quote
 
@@ -135,7 +133,7 @@ I'm **Mick Daniel Morales**, a full-stack developer building web and mobile expe
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff2ec4,100:00fff2&height=3&width=100%" alt="Decorative divider" />
+<img src="assets/neon-divider.svg" alt="Animated cyan and magenta circuit divider" width="100%" />
 
 <div align="center">
 
@@ -147,4 +145,4 @@ I'm **Mick Daniel Morales**, a full-stack developer building web and mobile expe
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=egg&color=0:ff00cc,50:302b63,100:0f0c29&height=150&section=footer" alt="Decorative footer" width="100%" />
+<img src="assets/neon-footer.svg" alt="Animated neon signal: let us build something useful" width="100%" />

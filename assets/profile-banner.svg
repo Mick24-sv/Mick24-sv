@@ -1,20 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Mick Daniel Morales</title>
-  <desc id="desc">Full-stack developer. Web, mobile, and thoughtful interfaces.</desc>
-  <defs>
-    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1120"/><stop offset="1" stop-color="#21143e"/></linearGradient>
-    <linearGradient id="accent"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#e879f9"/></linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a5b4fc" stroke-opacity=".07"/></pattern>
-  </defs>
-  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
-  <path d="M64 70H130" stroke="url(#accent)" stroke-width="4"/>
-  <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="64" y="108" fill="#67e8f9" font-size="15" letter-spacing="4">FULL-STACK DEVELOPER</text>
-    <text x="60" y="176" fill="#f8fafc" font-size="56" font-weight="700">Mick Daniel Morales</text>
-    <text x="64" y="220" fill="#c4b5fd" font-size="21">Web. Mobile. Thoughtful interfaces.</text>
-    <text x="64" y="270" fill="#94a3b8" font-family="Consolas, monospace" font-size="15">@Mick24-sv</text>
-    <text x="1000" y="198" fill="#67e8f9" opacity=".6" font-family="Consolas, monospace" font-size="72">&lt;/&gt;</text>
-  </g>
-  <rect x="64" y="304" width="1072" height="2" fill="url(#accent)" opacity=".6"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title"><title id="title">Mick Daniel Morales ? animated neon full-stack developer banner</title><defs><linearGradient id="neon"><stop stop-color="#00fff2"/><stop offset=".5" stop-color="#7d5cff"/><stop offset="1" stop-color="#ff2ec4"/></linearGradient><radialGradient id="bg"><stop stop-color="#241342"/><stop offset="1" stop-color="#080e1a"/></radialGradient><filter id="glow" x="-50%" y="-100%" width="200%" height="300%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#00fff2" stroke-opacity=".07"/></pattern></defs><style>
+.orbit{transform-origin:1010px 168px;animation:spin 32s linear infinite}.reverse{animation-direction:reverse;animation-duration:22s}.pulse{animation:pulse 4s ease-in-out infinite}.cursor{animation:blink 1.4s steps(2,end) infinite}.packet{animation:packet 7s linear infinite}.spark{animation:pulse 3s ease-in-out infinite}.float{animation:float 6s ease-in-out infinite}@keyframes spin{to{transform:rotate(360deg)}}@keyframes pulse{50%{opacity:.35}}@keyframes blink{50%{opacity:0}}@keyframes packet{from{transform:translateX(-160px)}to{transform:translateX(1230px)}}@keyframes float{50%{transform:translateY(-7px)}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect width="1200" height="340" rx="22" fill="url(#bg)"/><rect width="1200" height="340" rx="22" fill="url(#grid)"/>
+<rect x="1" y="1" width="1198" height="338" rx="21" fill="none" stroke="url(#neon)" stroke-opacity=".6"/>
+<path d="M32 84V32H112M1088 308H1168V256" fill="none" stroke="url(#neon)" stroke-width="3" filter="url(#glow)"/>
+<g font-family="Consolas,monospace"><circle cx="65" cy="69" r="4" fill="#00fff2" class="pulse"/><text x="80" y="74" fill="#8deee6" font-size="13" letter-spacing="3">DEVELOPER PROFILE // MICK24-SV</text>
+<text x="58" y="166" fill="#00fff2" font-size="66" font-weight="700" letter-spacing="2" filter="url(#glow)">MICK.DANIEL.EXE</text>
+<text x="62" y="207" fill="#f0abfc" font-size="21" letter-spacing="6">FULL-STACK DEVELOPER</text>
+<text x="62" y="254" fill="#bec8de" font-size="16">WEB + MOBILE + UI/UX<tspan class="cursor" fill="#00fff2"> _</tspan></text>
+<text x="62" y="303" fill="#8096ad" font-size="12" letter-spacing="2">BUILD. DEBUG. LEVEL UP.</text></g>
+<g fill="none" stroke="url(#neon)"><circle cx="1010" cy="168" r="103" stroke-opacity=".15"/><circle cx="1010" cy="168" r="84" stroke-width="2" stroke-dasharray="100 30 8 30" class="orbit"/><circle cx="1010" cy="168" r="107" stroke-dasharray="4 18" class="orbit reverse"/><circle cx="1010" cy="168" r="63" stroke-opacity=".5"/></g>
+<g class="float"><text x="1010" y="185" text-anchor="middle" font-family="Consolas,monospace" font-size="48" fill="#f0abfc" filter="url(#glow)">&lt;/&gt;</text></g>
+<g fill="#00fff2"><circle cx="855" cy="68" r="2" class="spark"/><circle cx="1134" cy="260" r="3" class="spark"/><circle cx="915" cy="290" r="2" class="spark"/></g>
+<path d="M40 326H1160" stroke="url(#neon)" stroke-opacity=".3"/><path d="M0 326H120" stroke="#00fff2" stroke-width="2" class="packet"/>
 </svg>
