@@ -100,9 +100,9 @@ I'm **Mick Daniel Morales**, a full-stack developer building web and mobile expe
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/a6b0cb22aa8c65c8a3f2c55dc8093fe6170bbaf8/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/a6b0cb22aa8c65c8a3f2c55dc8093fe6170bbaf8/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/a6b0cb22aa8c65c8a3f2c55dc8093fe6170bbaf8/github-contribution-grid-snake.svg" alt="Animated snake moving across my GitHub contribution calendar" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/ee0666172f8139ec8b2b2391e11de270a444d087/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/ee0666172f8139ec8b2b2391e11de270a444d087/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Mick24-sv/Mick24-sv/ee0666172f8139ec8b2b2391e11de270a444d087/github-contribution-grid-snake.svg" alt="Animated snake moving across my GitHub contribution calendar" width="100%" />
 </picture>
 
 [View the source contribution calendar](https://github.com/Mick24-sv?tab=overview) | Refreshes every 12 hours and after pushes to this profile repository. Colors represent GitHub contribution levels; the animation repeats the same calendar.
